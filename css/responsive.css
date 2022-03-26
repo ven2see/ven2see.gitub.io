@@ -505,6 +505,9 @@ header nav ul li a {
 	margin: 20px auto;
 }
 
+footer h2{
+	display: none;
 }
 
+}
 
